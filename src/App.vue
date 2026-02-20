@@ -22,7 +22,7 @@
     <section id="projects">
         <div class="container">
             <h2>Projects</h2>
-            <div class="project">
+              <a class="project" href="https://github.com/n1zen/webGenerator" target="_blank">
                 <div class="project-content">
                   <h3>Online Barcode Generator Application</h3>
                   <p>A web application that generates barcodes for products. It allows users to input multiple product
@@ -31,23 +31,17 @@
                 </div>
                 <div class="project-tech-stack">
                   <p><span class="tech-stack">Tech Stack:</span> HTML, CSS, JavaScript</p>
-                  <!-- <a>
-                    <span>View Project</span>
-                  </a> -->
                 </div>
-            </div>
-            <div class="project">
+              </a>
+              <a class="project" href="https://github.com/n1zen/ToDoList" target="_blank">
                 <div class="project-content">
                   <h3>To Do List Application</h3>
                   <p>A basic task manager applet that allows users to add, edit, delete, and mark tasks as complete.</p>
                 </div>
                 <div class="project-tech-stack">
                   <p><span class="tech-stack">Tech Stack:</span> HTML, CSS, JavaScript</p>
-                  <!-- <a>
-                    <span>View Project</span>
-                  </a> -->
                 </div>
-            </div>
+              </a>
         </div>
     </section>
 
@@ -55,65 +49,54 @@
         <div class="container">
             <h2>Technical Skills</h2>
             <div class="skills-container">
-                <ul>
-                    <li>
-                        <h5>Languages</h5>
-                        <div class="item">
-                            <i class="devicon-html5-plain"></i><i class="devicon-css3-plain"></i>
-                            <p>HTML/CSS</p>
-                        </div>
-                        <div class="item">
-                            <i class="devicon-javascript-plain"></i>
-                            <p>JavaScript</p>
-                        </div>
-                        <div class="item">
-                            <i class="devicon-typescript-plain"></i>
-                            <p>TypeScript</p>
-                        </div>
-                        <div class="item">
-                            <i class="devicon-java-plain"></i>
-                            <p>Java</p>
-                        </div>
-                        <div class="item">
-                            <i class="devicon-python-plain"></i>
-                            <p>Python</p>
-                        </div>
-                        <div class="item">
-                            <i class="devicon-mysql-plain"></i>
-                            <p>SQL</p>
-                        </div>
-                    </li>
-                    <li>
-                        <h5>Web and Mobile Development</h5>
-                        <div class="item">
-                            <i class="devicon-react-plain"></i>
-                            <p>React/React Native</p>
-                        </div>
-                        <div class="item">
-                            <i class="devicon-npm-original-wordmark"></i>
-                            <p>Node.js</p>
-                        </div>
-                        <div class="item">
-                            <i class="devicon-bootstrap-plain"></i>
-                            <p>Bootstrap</p>
-                        </div>
-                        <div class="item">
-                            <i class="devicon-fastapi-plain"></i>
-                            <p>FastAPI</p>
-                        </div>
-                    </li>
-                    <li>
-                        <h5>Tools</h5>
-                        <div class="item">
-                            <i class="devicon-git-plain"></i>
-                            <p>Git</p>
-                        </div>
-                        <div class="item">
-                            <i class="devicon-github-plain"></i>
-                            <p>GitHub</p>
-                        </div>
-                    </li>
-                </ul>
+              <div class="item">
+                <i class="devicon-html5-plain"></i><i class="devicon-css3-plain"></i>
+                <p>HTML/CSS</p>
+              </div>
+              <div class="item">
+                <i class="devicon-javascript-plain"></i>
+                <p>JavaScript</p>
+              </div>
+              <div class="item">
+                <i class="devicon-typescript-plain"></i>
+                <p>TypeScript</p>
+              </div>
+              <div class="item">
+                <i class="devicon-java-plain"></i>
+                <p>Java</p>
+              </div>
+              <div class="item">
+                <i class="devicon-python-plain"></i>
+                <p>Python</p>
+              </div>
+              <div class="item">
+                <i class="devicon-mysql-plain"></i>
+                <p>SQL</p>
+              </div>
+              <div class="item">
+                <i class="devicon-react-plain"></i>
+                <p>React/React Native</p>
+              </div>
+              <div class="item">
+                <i class="devicon-npm-original-wordmark"></i>
+                <p>Node.js</p>
+              </div>
+              <div class="item">
+                <i class="devicon-bootstrap-plain"></i>
+                <p>Bootstrap</p>
+              </div>
+              <div class="item">
+                <i class="devicon-fastapi-plain"></i>
+                <p>FastAPI</p>
+              </div>
+              <div class="item">
+                <i class="devicon-git-plain"></i>
+                <p>Git</p>
+              </div>
+              <div class="item">
+                <i class="devicon-github-plain"></i>
+                <p>GitHub</p>
+              </div>
             </div>
         </div>
     </section>
