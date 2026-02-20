@@ -31,9 +31,9 @@
                 </div>
                 <div class="project-tech-stack">
                   <p><span class="tech-stack">Tech Stack:</span> HTML, CSS, JavaScript</p>
-                  <button>
+                  <!-- <a>
                     <span>View Project</span>
-                  </button>
+                  </a> -->
                 </div>
             </div>
             <div class="project">
@@ -43,9 +43,9 @@
                 </div>
                 <div class="project-tech-stack">
                   <p><span class="tech-stack">Tech Stack:</span> HTML, CSS, JavaScript</p>
-                  <button>
+                  <!-- <a>
                     <span>View Project</span>
-                  </button>
+                  </a> -->
                 </div>
             </div>
         </div>
@@ -59,57 +59,57 @@
                     <li>
                         <h5>Languages</h5>
                         <div class="item">
-                            <i class="fa-brands fa-html5"></i><i class="fa-brands fa-css3-alt"></i>
+                            <i class="devicon-html5-plain"></i><i class="devicon-css3-plain"></i>
                             <p>HTML/CSS</p>
                         </div>
                         <div class="item">
-                            <i class="fa-brands fa-js"></i>
+                            <i class="devicon-javascript-plain"></i>
                             <p>JavaScript</p>
                         </div>
                         <div class="item">
-                            <i class="fa-brands fa-microsoft"></i>
+                            <i class="devicon-typescript-plain"></i>
                             <p>TypeScript</p>
                         </div>
                         <div class="item">
-                            <i class="fa-brands fa-java"></i>
+                            <i class="devicon-java-plain"></i>
                             <p>Java</p>
                         </div>
                         <div class="item">
-                            <i class="fa-brands fa-python"></i>
+                            <i class="devicon-python-plain"></i>
                             <p>Python</p>
                         </div>
                         <div class="item">
-                            <i class="fa-solid fa-database"></i>
+                            <i class="devicon-mysql-plain"></i>
                             <p>SQL</p>
                         </div>
                     </li>
                     <li>
                         <h5>Web and Mobile Development</h5>
                         <div class="item">
-                            <i class="fa-brands fa-react"></i>
+                            <i class="devicon-react-plain"></i>
                             <p>React/React Native</p>
                         </div>
                         <div class="item">
-                            <i class="fa-brands fa-node-js"></i>
+                            <i class="devicon-npm-original-wordmark"></i>
                             <p>Node.js</p>
                         </div>
                         <div class="item">
-                            <i class="fa-brands fa-bootstrap"></i>
+                            <i class="devicon-bootstrap-plain"></i>
                             <p>Bootstrap</p>
                         </div>
                         <div class="item">
-                            <i class="fa-brands fa-python"></i>
+                            <i class="devicon-fastapi-plain"></i>
                             <p>FastAPI</p>
                         </div>
                     </li>
                     <li>
                         <h5>Tools</h5>
                         <div class="item">
-                            <i class="fa-brands fa-git-alt"></i>
+                            <i class="devicon-git-plain"></i>
                             <p>Git</p>
                         </div>
                         <div class="item">
-                            <i class="fa-brands fa-github"></i>
+                            <i class="devicon-github-plain"></i>
                             <p>GitHub</p>
                         </div>
                     </li>
@@ -174,14 +174,14 @@
                     <i class="fa-solid fa-location-dot"></i>
                     <p>Caloocan City, Philippines</p>
                 </div>
-                <div class="contact-content-item">
+                <a class="contact-content-item" href="https://github.com/n1zen">
                     <i class="fa-brands fa-github"></i>
-                    <p><a href="https://github.com/n1zen">n1zen</a></p>
-                </div>
-                <div class="contact-content-item">
+                    <p>n1zen</p>
+                </a>
+                <a class="contact-content-item" href="https://www.linkedin.com/in/louie-izen-torres-4557243ab">
                     <i class="fa-brands fa-linkedin"></i>
-                    <p><a href="https://www.linkedin.com/in/louie-izen-torres-4557243ab">Louie Izen B. Torres</a></p>
-                </div>
+                    <p>Louie Izen B. Torres</p>
+                </a>
             </div>
         </div>
     </section>
