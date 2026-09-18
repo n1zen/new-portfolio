@@ -8,10 +8,10 @@
             <div class="text-container">
                 <div class="name-designation">
                   <h1>Hi, I'm Louie Izen B. Torres</h1>
-                  <p>A 4th year BSCpE student from STI College Muñoz-EDSA</p>
+                  <p>A fresh Computer Engineer graduate from STI College Muñoz-EDSA</p>
                 </div>
                 <div class="description">
-                  <p>I am a passionate and results-oriented computer engineering student with a strong foundation in
+                  <p>I am a passionate and results-oriented computer engineering graduate with a strong foundation in
                     software development, hardware systems, and emerging technologies. Dedicated to continuous learning
                     and building innovative solutions that make a difference.</p>
                 </div>
@@ -42,6 +42,17 @@
                   <p><span class="tech-stack">Tech Stack:</span> HTML, CSS, JavaScript</p>
                 </div>
               </a>
+	      <a class="project" href="https://github.com/n1zen/ChurchAttendance" target="_blank">
+		<div class="project-content">
+		    <h3>Fort Andres Bonifacio Church Attendance Application</h3>
+		    <p>
+			A web based church attendance app for logging and tracking attendees of Fort Andres Bonifactio Adventist Church. Allows attendees to simply log their attendance where admins can monitor their congregation's attendance.
+		    </p>
+		</div>
+		<div class="project-tech-stack">
+		    <p><span class="tech-stack">Tech Stack:</span> C#, .NET, Bootstrap</p>
+		</div>
+	    </a>
         </div>
     </section>
 
