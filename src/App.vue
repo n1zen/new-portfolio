@@ -50,7 +50,7 @@
 		    </p>
 		</div>
 		<div class="project-tech-stack">
-		    <p><span class="tech-stack">Tech Stack:</span>C#, .NET, Bootstrap</p>
+		    <p><span class="tech-stack">Tech Stack:</span> C#, .NET, Bootstrap</p>
 		</div>
 	    </a>
         </div>
